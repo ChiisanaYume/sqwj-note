@@ -1,0 +1,15 @@
+PS基本快捷键（CroelDRAW通用）
+
+Ctrl + N 新建
+Ctrl + O 打开
+Ctrl + K 首选项（CorelDRAW为Ctrl + J）
+
+Ctrl + S 保存
+Ctrl + Shift + S 另存
+Ctrl + Alt + Shift + W 导出为（CorelDRAW为Gtrl + I）
+
+Ctrl + W 关闭窗口
+Ctrl + alt + W 全部关闭
+
+Ctrl + Z 撤销
+Ctrl + alt + Z 重做

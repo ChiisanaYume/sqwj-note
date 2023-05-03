@@ -1,0 +1,54 @@
+######################################## 绘图笔记 ########################################
+
+## 	AI切换工具和其他软件不一样，不是通过鼠标右键切换的，按住鼠标不放才可以切换。
+
+##	青	+	品红	=	蓝色(C+M=B)
+	青	+	黄	=	绿色(C+Y=G)
+	品红	+	黄	=	红色(M+Y=R)
+	青	+	品红	+	黄=黑色(C+M+Y=K)//但是永远都的不到真正的黑色
+
+##	CorelDRAW 居中快捷键(使用英文键盘)
+
+	页面居中	P(Page)
+
+	上对齐		T(Top)
+	垂直居中	E
+	下对齐 		B(Bottom)
+
+	左对齐		L(Left)
+	水平居中	C(Center)
+	右对齐		R(Right)
+	
+##	CorelDRAW 分布/排列快捷键(一般为Shift+居中快捷键) 
+	
+	水平分布
+	左对齐			Shift + L
+	中心			Shift + E
+	间隔相等		Shift + P
+	右对齐			Shift + R
+
+	垂直分布
+	上对齐			Shift + T
+	中心			Shift + C
+	间隔相等		Shift + A
+	下对齐			Shift + B	
+
+##	CorelDRAW 文字对齐快捷键（Crtl + 居中快捷键）
+	
+	无(None)			Crtl + N
+	左对齐(Left)			Crtl + L
+	右对齐(Right)			Crtl + R
+	居中对齐(Center)		Crtl + E
+	全部调整(Justify)		Ctrl + J
+	强制调整			Ctrl + H
+
+	
+##	缩放快捷键
+
+	放大		F2
+	缩小		F3
+	缩放所有对象	F4
+	缩放选定范围	Shift F2
+
+##	CRTL + ALT + J	连接所有节点（CorerDRAW X8）
+				

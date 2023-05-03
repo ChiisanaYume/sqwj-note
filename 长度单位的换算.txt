@@ -1,0 +1,5 @@
+BMP/TIF/PLC/ICO/WMF
+
+JPG/PNG/GIF
+
+1mm≈12像素300分辨率下(px)≈2.66点(pt)
