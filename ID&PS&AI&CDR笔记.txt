@@ -50,5 +50,7 @@
 	缩放所有对象	F4
 	缩放选定范围	Shift F2
 
-##	CRTL + ALT + J	连接所有节点（CorerDRAW X8）
+##	CRTL + ALT + J	连接所有节点（CorelDRAW X8）
+
+##	Corel 页面可以应用背景(背景色&图片背景)
 				
